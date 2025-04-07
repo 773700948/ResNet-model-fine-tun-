@@ -29,3 +29,5 @@ This one is very similar to pridect.ipynb, and is clearly focused on loading a t
 
 *  Test Dataset: Loads the test images from the path E:/ourProject/newmodel/Dataset/test, resizes them to 224x224 pixels (ResNet size standard), and feeds them into the model.
 
+# Dataset used to train the model:
+## https://www.kaggle.com/datasets/rehabalsaby/yemeni-sign-language
